@@ -1,0 +1,6 @@
+package com.dh.ch01;
+public class HellodWorld{
+  public static void main(String[] fargs){
+    System.out.println("helloWorld");
+  }
+}
